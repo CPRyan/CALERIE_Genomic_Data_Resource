@@ -1,2 +1,2 @@
 # CALERIE_Genomic_Data_Resource
-This repository will provide home for code related to CALERIE genomic data resource. 
+This repository provides code related to CALERIE genomic data resource paper. 
